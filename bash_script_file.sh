@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'pppp'
+ls
