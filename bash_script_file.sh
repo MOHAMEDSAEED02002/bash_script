@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -al
+@echo off
+:: list of files
+dir
